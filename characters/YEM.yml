@@ -716,7 +716,7 @@ yem_salah_ad_din_amir_ii_tahirid_1:
     death: yes
 yem_yahya_hamid_ed_din_rassid:
   1888.1.1:
-    birth: taizz #TODO: Date and location guessed, check if better data is available
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
     first_name: yahya_hamid_ed_din
     dynasty: rassid_dynasty
     adm: 60
@@ -729,7 +729,7 @@ yem_yahya_hamid_ed_din_rassid:
     death: yes
 yem_ahmad_rassid:
   1891.6.18:
-    birth: taizz #TODO: Location guessed, check if better data is available
+    birth: shaharah
     first_name: ahmad
     dynasty: rassid_dynasty
     adm: 75
@@ -742,7 +742,7 @@ yem_ahmad_rassid:
     death: yes
 yem_muhammad_al_badr_rassid:
   1926.2.15:
-    birth: taizz #TODO: Location guessed, check if better data is available
+    birth: sana_yemen
     first_name: muhammad_al_badr
     dynasty: rassid_dynasty
     adm: 60
@@ -755,19 +755,19 @@ yem_muhammad_al_badr_rassid:
     death: yes
 yem_abdullah_as_sallal:
   1917.1.9:
-    birth: taizz #TODO: Location guessed, check if better data is available
+    birth: sana_yemen
     first_name: abdullah_as_sallal
     adm: 45
     dip: 30
     mil: 60
-    religion: sunni
+    religion: shia
     culture: yemeni_culture
     tag: YEM
   1967.11.5:
     death: yes
 yem_abdul_rahman_al_iryani:
   1910.6.10:
-    birth: taizz #TODO: Location guessed, check if better data is available
+    birth: mikhlaf_al_hubishiyah
     first_name: abdul_rahman_al_iryani
     adm: 30
     dip: 60
@@ -779,67 +779,67 @@ yem_abdul_rahman_al_iryani:
     death: yes
 yem_ibrahim_al_hamdi:
   1943.9.30:
-    birth: taizz #TODO: Location guessed, check if better data is available
+    birth: ibb
     first_name: ibrahim_al_hamdi
-    adm: 30
+    adm: 50
     dip: 60
-    mil: 45
+    mil: 50
     religion: sunni
     culture: yemeni_culture
     tag: YEM
   1977.10.11:
     death: yes
 yem_ahmad_al_ghashmi:
-  1935.8.21:
-    birth: taizz #TODO: Location guessed, check if better data is available
+  1935.8.21:  #TODO: confirm year
+    birth: sana_yemen
     first_name: ahmad_al_ghashmi
     adm: 45
     dip: 60
     mil: 45
-    religion: sunni
+    religion: shia #ismaili
     culture: yemeni_culture
     tag: YEM
   1978.6.24:
     death: yes
 yem_abdul_karim_abdullah_al_arashi:
-  1934.12.1:
-    birth: taizz #TODO: Location guessed, check if better data is available
+  1929.7.21:  #given in https://yemenparliament.gov.ye/Details?Post=24 as the 14th of Safar 1348 Anno Hegirae
+    birth: sana_yemen
     first_name: abdul_karim_abdullah_al_arashi
     adm: 15
     dip: 75
     mil: 60
-    religion: sunni
+    religion: shia #himself a judge, is from a family of zaydi judges
     culture: yemeni_culture
     tag: YEM
   1978.7.18:
     death: yes
 yem_ali_abdullah_saleh:
   1947.3.21:
-    birth: taizz #TODO: Location guessed, check if better data is available
+    birth: sana_yemen
     first_name: ali_abdullah_saleh
     adm: 75
     dip: 45
     mil: 45
-    religion: sunni
+    religion: shia
     culture: yemeni_culture
     tag: YEM
   2012.2.25:
     death: yes
 yem_abdrabbuh_mansur_hadi:
   1945.9.1:
-    birth: taizz #TODO: Location guessed, check if better data is available
+    birth: lawdar
     first_name: abdrabbuh_mansur_hadi
     adm: 45
     dip: 75
     mil: 30
-    religion: shia
+    religion: sunni
     culture: yemeni_culture
     tag: YEM
   2015.2.6:
     death: yes
 yem_mohammed_ali_al_houthi:
-  1979.1.1:
-    birth: taizz #TODO: Date and location guessed, check if better data is available
+  1979.7.14:
+    birth: sadah
     first_name: mohammed_ali_al_houthi
     adm: 30
     dip: 45
@@ -850,8 +850,8 @@ yem_mohammed_ali_al_houthi:
   2016.8.15:
     death: yes
 yem_saleh_ali_al_sammad:
-  1979.1.1:
-    birth: taizz #TODO: Date and location guessed, check if better data is available
+  1979.7.6:
+    birth: sadah
     first_name: saleh_ali_al_sammad
     adm: 45
     dip: 45
@@ -862,8 +862,8 @@ yem_saleh_ali_al_sammad:
   2018.4.25:
     death: yes
 yem_mahdi_al_mashat:
-  1986.5.25:
-    birth: taizz #TODO: Location guessed, check if better data is available
+  1986.1.15:
+    birth: sadah
     first_name: mahdi_al_mashat
     adm: 60
     dip: 45
