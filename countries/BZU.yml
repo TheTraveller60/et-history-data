@@ -45,15 +45,15 @@
   ruler: bzu_jiazhen_yang
 1340.1.1:
   ruler: bzu_zhongyan_yang
-1341.1.1:
-  ruler: bzu_jiong_yang
 1350.1.1:
   ruler: bzu_yuanding_yang
 1370.1.1:
   ruler: bzu_keng_yang
 1399.1.1:
   ruler: bzu_sheng_yang
-1442.1.1:
+1440.1.1:
+  ruler: bzu_jiong_yang
+1441.1.1:
   ruler: bzu_gang_yang
 1449.1.1:
   ruler: bzu_hui_yang
