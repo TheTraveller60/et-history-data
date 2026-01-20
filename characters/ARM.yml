@@ -1093,8 +1093,8 @@ arm_hovhannes_katchaznouni:
   1919.5.28:
     death: yes
 arm_alexander_khatisyan:
-  1974.2.17:
-    birth: yerevan #TODO: Location guessed, check if better data is available
+  1874.2.17:
+    birth: tbilisi
     first_name: alexander_khatisyan
     adm: 45
     dip: 45
