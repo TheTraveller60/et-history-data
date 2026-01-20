@@ -732,9 +732,9 @@ yem_ahmad_rassid:
     birth: shaharah
     first_name: ahmad
     dynasty: rassid_dynasty
-    adm: 75
+    adm: 15
     dip: 15
-    mil: 45
+    mil: 20
     religion: shia
     culture: yemeni_culture
     tag: YEM
@@ -745,9 +745,9 @@ yem_muhammad_al_badr_rassid:
     birth: sana_yemen
     first_name: muhammad_al_badr
     dynasty: rassid_dynasty
-    adm: 60
-    dip: 15
-    mil: 15
+    adm: 15
+    dip: 30
+    mil: 30
     religion: sunni
     culture: yemeni_culture
     tag: YEM
@@ -757,7 +757,7 @@ yem_abdullah_as_sallal:
   1917.1.9:
     birth: sana_yemen
     first_name: abdullah_as_sallal
-    adm: 45
+    adm: 15
     dip: 30
     mil: 60
     religion: shia
@@ -770,8 +770,8 @@ yem_abdul_rahman_al_iryani:
     birth: mikhlaf_al_hubishiyah
     first_name: abdul_rahman_al_iryani
     adm: 30
-    dip: 60
-    mil: 60
+    dip: 50
+    mil: 10
     religion: sunni
     culture: yemeni_culture
     tag: YEM
@@ -781,9 +781,9 @@ yem_ibrahim_al_hamdi:
   1943.9.30:
     birth: ibb
     first_name: ibrahim_al_hamdi
-    adm: 50
+    adm: 75
     dip: 60
-    mil: 50
+    mil: 60
     religion: sunni
     culture: yemeni_culture
     tag: YEM
@@ -793,9 +793,9 @@ yem_ahmad_al_ghashmi:
   1935.8.21:  #TODO: confirm year
     birth: sana_yemen
     first_name: ahmad_al_ghashmi
-    adm: 45
-    dip: 60
-    mil: 45
+    adm: 30
+    dip: 30
+    mil: 60
     religion: shia #ismaili
     culture: yemeni_culture
     tag: YEM
@@ -805,9 +805,9 @@ yem_abdul_karim_abdullah_al_arashi:
   1929.7.21:  #given in https://yemenparliament.gov.ye/Details?Post=24 as the 14th of Safar 1348 Anno Hegirae
     birth: sana_yemen
     first_name: abdul_karim_abdullah_al_arashi
-    adm: 15
-    dip: 75
-    mil: 60
+    adm: 50
+    dip: 30
+    mil: 30
     religion: shia #himself a judge, is from a family of zaydi judges
     culture: yemeni_culture
     tag: YEM
@@ -817,8 +817,8 @@ yem_ali_abdullah_saleh:
   1947.3.21:
     birth: sana_yemen
     first_name: ali_abdullah_saleh
-    adm: 75
-    dip: 45
+    adm: 60
+    dip: 60
     mil: 45
     religion: shia
     culture: yemeni_culture
@@ -829,8 +829,8 @@ yem_abdrabbuh_mansur_hadi:
   1945.9.1:
     birth: lawdar
     first_name: abdrabbuh_mansur_hadi
-    adm: 45
-    dip: 75
+    adm: 30
+    dip: 50
     mil: 30
     religion: sunni
     culture: yemeni_culture
@@ -853,9 +853,9 @@ yem_saleh_ali_al_sammad:
   1979.7.6:
     birth: sadah
     first_name: saleh_ali_al_sammad
-    adm: 45
+    adm: 30
     dip: 45
-    mil: 60
+    mil: 30
     religion: shia
     culture: yemeni_culture
     tag: YEM
@@ -865,9 +865,9 @@ yem_mahdi_al_mashat:
   1986.1.15:
     birth: sadah
     first_name: mahdi_al_mashat
-    adm: 60
-    dip: 45
-    mil: 45
+    adm: 30
+    dip: 20
+    mil: 60
     religion: shia
     culture: yemeni_culture
     tag: YEM
