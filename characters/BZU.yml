@@ -272,18 +272,6 @@ bzu_yuanding_yang:
     tag: BZU
   1370.1.1:
     death: yes
-bzu_jiong_yang:
-  1311.1.1:
-    birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: jiong
-    dynasty: yang_dynasty
-    father: bzu_sheng_yang #TODO: check if this makes sense
-    adm: 75
-    dip: 75
-    mil: 30
-    religion: bimoism
-    culture: yi_culture
-    tag: BZU
   1350.1.1:
     death: yes
 bzu_keng_yang:
@@ -300,7 +288,7 @@ bzu_keng_yang:
   1399.1.1:
     death: yes
 bzu_sheng_yang:
-  1369.1.1:
+  1377.1.1:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
     first_name: sheng
     dynasty: yang_dynasty
@@ -310,7 +298,21 @@ bzu_sheng_yang:
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1341.1.1:
+  1440.1.1:
+    death: yes
+bzu_jiong_yang:
+  1411.1.1:
+    birth: bozhou #TODO: Date and location guessed, check if better data is available
+    first_name: jiong
+    dynasty: yang_dynasty
+    father: bzu_sheng_yang 
+    adm: 75
+    dip: 75
+    mil: 30
+    religion: bimoism
+    culture: yi_culture
+    tag: BZU
+  1441.1.1:
     death: yes
 bzu_gang_yang:
   1412.1.1:
